@@ -28,4 +28,6 @@ artifacts:
   files:
     - '**/*'
   base-directory: ../simple-python-app
+  name: simple-python-app
+  discard-paths: no
 
